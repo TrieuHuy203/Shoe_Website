@@ -1,0 +1,14 @@
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/bin/Debug/net8.0/KickZone.DomainEntities.deps.json
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/bin/Debug/net8.0/KickZone.DomainEntities.runtimeconfig.json
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/bin/Debug/net8.0/KickZone.DomainEntities.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/bin/Debug/net8.0/KickZone.DomainEntities.pdb
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.csproj.AssemblyReference.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.AssemblyInfoInputs.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.AssemblyInfo.cs
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.csproj.CoreCompileInputs.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/refint/KickZone.DomainEntities.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.pdb
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.genruntimeconfig.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/ref/KickZone.DomainEntities.dll

@@ -1,0 +1,15 @@
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/bin/Debug/net8.0/KickZone.Contracts.deps.json
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/bin/Debug/net8.0/KickZone.Contracts.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/bin/Debug/net8.0/KickZone.Contracts.pdb
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/bin/Debug/net8.0/KickZone.DomainEntities.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/bin/Debug/net8.0/KickZone.DomainEntities.pdb
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.csproj.AssemblyReference.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.AssemblyInfoInputs.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.AssemblyInfo.cs
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.csproj.CoreCompileInputs.cache
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.597984C0.Up2Date
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/refint/KickZone.Contracts.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.pdb
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/ref/KickZone.Contracts.dll

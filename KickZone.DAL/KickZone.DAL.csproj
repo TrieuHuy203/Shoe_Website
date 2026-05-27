@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\KickZone.Contracts\KickZone.Contracts.csproj" />
+    <ProjectReference Include="..\KickZone.Common\KickZone.Common.csproj" />
+    <ProjectReference Include="..\KickZone.DomainEntities\KickZone.DomainEntities.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

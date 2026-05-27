@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace KickZone.DomainEntities.Entities;
+
+public partial class Payment
+{
+    public int PaymentId { get; set; }
+
+    public int OrderId { get; set; }
+
+    public int PaymentMethodId { get; set; }
+
+    public decimal Amount { get; set; }
+
+    public DateTime? PaymentDate { get; set; }
+
+    public string Status { get; set; } = null!;
+
+    public int? TransactionId { get; set; }
+
+    public bool IsDeleted { get; set; }
+
+    public virtual Order Order { get; set; } = null!;
+
+    public virtual PaymentMethod PaymentMethod { get; set; } = null!;
+
+    public virtual ICollection<Transaction> Transactions { get; set; } = new List<Transaction>();
+}
