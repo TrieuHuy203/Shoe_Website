@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KickZone.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423deb2faa8ff61c397b5cace7cdfafea5ebf73c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KickZone.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KickZone.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

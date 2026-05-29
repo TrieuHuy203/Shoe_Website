@@ -203,3 +203,29 @@ lưu ảnh miễn phí
 CDN sẵn
 resize ảnh tự động
 dễ tích hợp ASP.NET Core
+
+
+
+
+////////////////// cấu trúc project react////////////
+src/
+├── assets/             # Tài nguyên tĩnh: hình ảnh, fonts, icons toàn cục
+├── components/         # Các UI component dùng chung (Button, Input, Modal, Table)
+├── features/           # Chứa các module/chức năng riêng biệt (VD: auth, products, profile)
+│   ├── auth/           # Module Authentication
+│   │   ├── components/ # Component chỉ dùng riêng cho Auth
+│   │   ├── services/   # Gọi API (axios/fetch) của Auth
+│   │   ├── hooks/      # Hook riêng cho Auth
+│   │   └── types.ts    # TypeScript interface/type cho Auth
+│   └── products/       # Module Sản phẩm
+├── hooks/              # Custom hooks dùng chung cho toàn ứng dụng
+├── layouts/            # Khung giao diện (Header, Sidebar, Footer, AuthLayout)
+├── pages/              # Các trang chính (Home, Login, NotFound). Ghép từ Layout & Feature
+├── routes/             # Cấu hình định tuyến (React Router)
+├── services/           # Cấu hình Axios/Fetch toàn cục, quản lý API chung
+├── store/              # Quản lý state toàn cục (Redux Toolkit, Zustand, Context)
+├── styles/             # Global styles, Tailwind config, CSS variables
+├── types/              # TypeScript global types/interfaces (dùng mọi nơi)
+├── utils/              # Các hàm tiện ích (format date, validate, helpers)
+├── App.tsx             # Component gốc
+└── main.tsx            # Điểm khởi chạy của ứng dụng (ReactDOM.createRoot)

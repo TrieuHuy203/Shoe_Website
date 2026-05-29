@@ -9,3 +9,4 @@
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Common/obj/Debug/net8.0/refint/KickZone.Common.dll
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Common/obj/Debug/net8.0/KickZone.Common.pdb
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Common/obj/Debug/net8.0/ref/KickZone.Common.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Common/obj/Debug/net8.0/KickZone.Common.sourcelink.json

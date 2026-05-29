@@ -19,3 +19,4 @@
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.BusinessService/obj/Debug/net8.0/refint/KickZone.BusinessService.dll
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.BusinessService/obj/Debug/net8.0/KickZone.BusinessService.pdb
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.BusinessService/obj/Debug/net8.0/ref/KickZone.BusinessService.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.BusinessService/obj/Debug/net8.0/KickZone.BusinessService.sourcelink.json

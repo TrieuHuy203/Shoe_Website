@@ -693,6 +693,9 @@ public partial class ShoeShopDbContext : DbContext
             entity.Property(e => e.IsMain).HasDefaultValue(false);
             entity.Property(e => e.ProductId).HasColumnName("ProductID");
 
+            // Bổ sung cấu hình cho SortOrder
+            entity.Property(e => e.SortOrder).HasDefaultValue(0);
+
             entity.HasOne(d => d.Product).WithMany(p => p.ProductImages)
                 .HasForeignKey(d => d.ProductId)
                 .OnDelete(DeleteBehavior.ClientSetNull)

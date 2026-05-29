@@ -6,13 +6,16 @@ public class ProductVariantService : IProductVariantService
 {
     private readonly IProductVariantRepository _repo;
     private readonly IProductRepository _productRepo;
+    private readonly IInventoryRepository _inventoryRepo;
 
     public ProductVariantService(
         IProductVariantRepository repo,
-        IProductRepository productRepo)
+        IProductRepository productRepo,
+        IInventoryRepository inventoryRepo)
     {
         _repo = repo;
         _productRepo = productRepo;
+        _inventoryRepo = inventoryRepo;
     }
 
     public async Task<List<ProductVariantResponseDto>> GetAllAsync()
@@ -92,6 +95,30 @@ public class ProductVariantService : IProductVariantService
         };
 
         await _repo.AddAsync(entity);
+       
+        
+  // tạo inventory tương ứng
+    // var inventory = new Inventory
+    // {
+    //     ProductVariantId = entity.VariantId,
+    //     Quantity = dto.StockQuantity,
+    //     UpdatedAt = DateTime.UtcNow,
+    //     IsDeleted = false
+    // };
+
+    // await _inventoryRepo.AddAsync(inventory);
+    var inventory = new Inventory
+{
+      ProductVariantId = entity.VariantId,
+    Quantity = dto.StockQuantity,
+    UpdatedAt = DateTime.UtcNow,
+    IsDeleted = false
+};
+
+await _inventoryRepo.AddAsync(inventory);
+await _inventoryRepo.SaveChangesAsync();
+
+
     }
 
     public async Task UpdateAsync(int id, UpdateProductVariantRequestDto dto)

@@ -13,3 +13,4 @@
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/refint/KickZone.Contracts.dll
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.pdb
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/ref/KickZone.Contracts.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.Contracts/obj/Debug/net8.0/KickZone.Contracts.sourcelink.json

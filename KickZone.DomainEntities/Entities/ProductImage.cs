@@ -12,6 +12,7 @@ public partial class ProductImage
     public string ImageUrl { get; set; } = null!;
 
     public bool? IsMain { get; set; }
+        public int SortOrder { get; set; }   // 👈 THÊM DÒNG NÀY
 
     public DateTime? CreatedAt { get; set; }
 

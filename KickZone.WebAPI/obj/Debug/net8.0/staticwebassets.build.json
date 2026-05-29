@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "Mz+OSpuE1u3W9cRramF5TRD5p3ar7ih/NRSNBckQOZo=",
+  "Hash": "PRxpvTmcZGA0RcUb4wiUp2Z5jxDnRQzl0Wx0mlmyHQs=",
   "Source": "KickZone.WebAPI",
   "BasePath": "_content/KickZone.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "KickZone.WebAPI/wwwroot",
+      "Source": "KickZone.WebAPI",
+      "ContentRoot": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/",
+      "BasePath": "_content/KickZone.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/4f6db289-f688-4f1d-a1f0-08b251105a12.jpg",
+      "SourceId": "KickZone.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/",
+      "BasePath": "_content/KickZone.WebAPI",
+      "RelativePath": "uploads/products/4f6db289-f688-4f1d-a1f0-08b251105a12.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/4f6db289-f688-4f1d-a1f0-08b251105a12.jpg"
+    },
+    {
+      "Identity": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/65a4f8c7-5c7c-4825-a65b-c124220f6782.jpg",
+      "SourceId": "KickZone.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/",
+      "BasePath": "_content/KickZone.WebAPI",
+      "RelativePath": "uploads/products/65a4f8c7-5c7c-4825-a65b-c124220f6782.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/65a4f8c7-5c7c-4825-a65b-c124220f6782.jpg"
+    },
+    {
+      "Identity": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/dd0ad762-efad-4d87-85b6-bf739425f2af.webp",
+      "SourceId": "KickZone.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/",
+      "BasePath": "_content/KickZone.WebAPI",
+      "RelativePath": "uploads/products/dd0ad762-efad-4d87-85b6-bf739425f2af.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/products/dd0ad762-efad-4d87-85b6-bf739425f2af.webp"
+    }
+  ]
 }

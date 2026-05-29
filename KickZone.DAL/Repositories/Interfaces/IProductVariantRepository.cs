@@ -10,6 +10,7 @@ public interface IProductVariantRepository
     Task AddAsync(ProductVariant entity);
     Task UpdateAsync(ProductVariant entity);
     Task DeleteAsync(ProductVariant entity);
+    // Task SaveChangesAsync();
 
     Task<bool> ExistsDuplicateAttributesAsync(int productId, string? size, string? color, string? type);
 }

@@ -12,3 +12,4 @@
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.pdb
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.genruntimeconfig.cache
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/ref/KickZone.DomainEntities.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DomainEntities/obj/Debug/net8.0/KickZone.DomainEntities.sourcelink.json

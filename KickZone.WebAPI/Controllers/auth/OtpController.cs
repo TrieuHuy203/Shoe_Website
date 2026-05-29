@@ -44,7 +44,7 @@ public class OtpController : ControllerBase
     // ================= RESEND OTP =================
     [HttpPost("resend")] // gửi lại OTP
     public async Task<IActionResult> ResendOtp(
-        [FromBody] VerifyOtpRequestDto request
+        [FromBody] ResendOtpRequestDto request
     )
     {
         try

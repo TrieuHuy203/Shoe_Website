@@ -17,3 +17,4 @@
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DAL/obj/Debug/net8.0/refint/KickZone.DAL.dll
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DAL/obj/Debug/net8.0/KickZone.DAL.pdb
 /Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DAL/obj/Debug/net8.0/ref/KickZone.DAL.dll
+/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.DAL/obj/Debug/net8.0/KickZone.DAL.sourcelink.json

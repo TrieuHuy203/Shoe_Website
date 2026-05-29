@@ -39,7 +39,7 @@ public class InventoryController : ControllerBase
     }
 
     [HttpPost("import")]
-    public async Task<IActionResult> Import(StockTransactionDto dto)
+    public async Task<IActionResult> Import([FromBody] StockTransactionDto dto)
     {
         var result = await _service.ImportStockAsync(dto);
         if (!result) return BadRequest("Invalid inventory information");
@@ -48,7 +48,7 @@ public class InventoryController : ControllerBase
     }
 
     [HttpPost("export")]
-    public async Task<IActionResult> Export(StockTransactionDto dto)
+public async Task<IActionResult> Export([FromBody] StockTransactionDto dto)
     {
         var result = await _service.ExportStockAsync(dto);
         if (!result) return BadRequest("Invalid inventory information");

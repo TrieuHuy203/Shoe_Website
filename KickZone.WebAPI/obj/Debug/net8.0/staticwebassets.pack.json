@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/4f6db289-f688-4f1d-a1f0-08b251105a12.jpg",
+      "PackagePath": "staticwebassets/uploads/products/4f6db289-f688-4f1d-a1f0-08b251105a12.jpg"
+    },
+    {
+      "Id": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/65a4f8c7-5c7c-4825-a65b-c124220f6782.jpg",
+      "PackagePath": "staticwebassets/uploads/products/65a4f8c7-5c7c-4825-a65b-c124220f6782.jpg"
+    },
+    {
+      "Id": "/Users/luongtrieu/Documents/MY DOCUMENT/KickZone/KickZone.WebAPI/wwwroot/uploads/products/dd0ad762-efad-4d87-85b6-bf739425f2af.webp",
+      "PackagePath": "staticwebassets/uploads/products/dd0ad762-efad-4d87-85b6-bf739425f2af.webp"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.KickZone.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.KickZone.WebAPI.props",
+      "PackagePath": "build\\KickZone.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.KickZone.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\KickZone.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.KickZone.WebAPI.props",
+      "PackagePath": "buildTransitive\\KickZone.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
